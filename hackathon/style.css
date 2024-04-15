@@ -1,0 +1,49 @@
+.header{
+    background-color: #F0ECF9;
+    border-radius: 15px 10px 300px 5px;
+}
+
+.navbar-nav{
+    text-align: right;
+    margin-left: 70%;
+}
+.navbar-brand{
+    margin-left: 10%;
+    font-size: larger;
+}
+/* hero section */
+
+.text-custom{
+    color:  #6F42C1 ;
+
+    
+}
+.sec-1{
+    margin-right: 60%;
+}
+.btn{
+    width: Hug (175.5px)px;
+height: Hug (44.8px)px;
+top: 172.21px;
+padding: 12.9px 32.25px 12.9px 32.25px;
+gap: 20px;
+border-radius: 25.8px 25.8px 25.8px 25.8px;
+opacity: 0px;
+background-color: #6F42C1;
+color: white;
+
+}
+/* hero section ends */
+
+/* icons section starts */
+
+.sec-2{
+margin-left: 35%; 
+color: #6F42C1;   
+}
+
+.con{
+    margin-left: 70%;
+}
+
+/* icons section ends */
